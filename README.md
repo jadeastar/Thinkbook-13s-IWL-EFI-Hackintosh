@@ -52,6 +52,7 @@ Thanks for checking out my EFI! I hope it'll be helpful to you too. Before you g
 - [balenaEtcher](https://etcher.io)
 
 1. Download the [Olarila image](https://www.olarila.com/topic/6278-hackintosh-and-macintosh-olarila-vanilla-images-macos/)
+
 Note: Olarila is generally hated in the community, don't use the forum or provided EFI, it's just a means to an end for a full installer image.
 2. Clone this repo (Use this command: `git clone https://github.com/jadeastar/Thinkbook-13s-IWL-EFI-Hackintosh.git`)
 2. Flash the image to a removable drive using Etcher (I've only tested Etcher, so play it safe and use it)
