@@ -46,10 +46,12 @@ Thanks for checking out my EFI! I hope it'll be helpful to you too. Before you g
 | Fingerprint |Doesn't work on Linux either, there is a effort for Linux drivers though.|
 
 ## Installation Instructions for Linux
-### Pre-requisites:
+### Pre-requisites
 - [GNOME Disk Utility](https://apps.gnome.org/app/org.gnome.DiskUtility/)
 - A file manager (Anything works)
 - [balenaEtcher](https://etcher.io)
+
+### Instructions
 
 1. Download the [Olarila image](https://www.olarila.com/topic/6278-hackintosh-and-macintosh-olarila-vanilla-images-macos/)
 
