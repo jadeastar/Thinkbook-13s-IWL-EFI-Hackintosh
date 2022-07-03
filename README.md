@@ -65,6 +65,8 @@ Note: Olarila is generally hated in the community, don't use the forum or provid
 8. Profit
 
 
+
+
 Usefull Link and Credits:
 - [OpenCore Install Guide]: this is starting point if you want to install Hackintosh using OpenCore.
 - [Acidanthera]: for most of the kexts
