@@ -1,17 +1,16 @@
 # Hackintosh EFI for First Generation Lenovo ThinkBooks
 
-macOS Version:
-
+### macOS Version:
 - macOS Big Sur
 
-OpenCore Version: 
+### OpenCore Version: 
 - 0.7.2 (Stuck for the time being)
 
-Compatible ThinkBooks:
+### Compatible ThinkBooks:
 - Thinkbook 13s IWL (Designed for)
 - Thinkbook 14s IWL (Quite possibly will work, upstream reports it does)
 
-My Hardware Configuration
+### My Hardware Configuration
 | Hardware | Info |
 | ------ | ------ |
 | CPU | Intel(R) Core(TM) i5-8265U CPU @ 1.80GHz |
@@ -21,7 +20,7 @@ My Hardware Configuration
 | SOUND | Intel Cannon Point-LP High Definition Audio Controller |
 | Network | Intel Cannon Point-LP CNVi |
 
-Status
+### Hardware Status
 | Name | Comment |
 | ------ | ------ |
 | Graphics Acceleration |TBD|
@@ -39,13 +38,13 @@ Status
 | Bluetooth |TBD|
 | HDMI |TBD|
 
-Known Issues
+### Known Issues
 | Name | Comment |
 | ------ | ------ |
 | Sleep | Closing the Lid will not trigger sleep, and leaving the lid open during manual sleep causes issues. Additionally the timed Turn Off Display option may cause issues. |
 | Fingerprint |Doesn't work on Linux either, there is a effort for Linux drivers though.|
 
-Instructions:
+## Installation Instructions
 Writing
 
 
