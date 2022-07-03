@@ -45,6 +45,7 @@ Thanks for checking out my EFI! I hope it'll be helpful to you too. Before you g
 | Sleep | Closing the Lid will not trigger sleep, and leaving the lid open during manual sleep causes issues. Additionally the timed Turn Off Display option may cause issues. |
 | Fingerprint |Doesn't work on Linux either, there is a effort for Linux drivers though.|
 
+
 ## Installation Instructions for Linux
 ### Pre-requisites
 - [GNOME Disk Utility](https://apps.gnome.org/app/org.gnome.DiskUtility/)
