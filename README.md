@@ -1,65 +1,51 @@
-# Thinkbook13S-IWL-EFI-OpenCore
-Lenovo Thinkbook 13s & 14s OpenCore EFI for Hackintosh
+# Hackintosh EFI for First Generation Lenovo ThinkBooks
 
-Hello everyone.
+macOS Version:
+macOS Big Sur
 
-So, I created this repository to share my OpenCore configuration on Lenovo Thinkbook-13S-IWL. Hopefully this will help someone who has same machine to install Hackintosh.
+OpenCore Version: 
+0.7.2 (Stuck for the time being)
 
-MacOs Version:
-MacOS Big Sur
+Compatible ThinkBooks:
+- Thinkbook 13s IWL (Designed for)
+- Thinkbook 14s IWL (Quite possibly will work, upstream reports it does)
 
-OpenCore Version: 0.7.2
-
-Tested machine:
-- Thinkbook 13s IWL (My current laptop)
-- Thinkbook 14s IWL (i5-8265U) (thanks to [ws839750375] for testing) 
-
-
-Below is machine spec that I use to test the EFI. If you have similar model and spec, this EFI should work for you.
-
-Laptop Specifications:
+My Hardware Configuration
 | Hardware | Info |
 | ------ | ------ |
-| CPU | Intel(R) Core(TM) i7-8565U CPU @ 1.80GHz |
-| MEMORY | 16 GB DDR4 |
-| GRAPHICS | Intel UHD Graphics 620 (Mobile) |
-| DISK | SSD HFM512GDHTNG-8310A |
-| SOUND | Realtek ALC257 |
-| Network | Intel AC9560 |
+| CPU | Intel(R) Core(TM) i5-8265U CPU @ 1.80GHz |
+| MEMORY | 8 GB DDR4 |
+| GRAPHICS | Intel UHD Graphics 620 |
+| DISK | TBA |
+| SOUND | Intel Cannon Point-LP High Definition Audio Controller |
+| Network | Intel Cannon Point-LP CNVi |
 
-What's Working:
+Status
 | Name | Comment |
 | ------ | ------ |
-| Graphics Acceleration |  |
-| Trackpad | Gesture enabled. Using VoodooI2CHID. |
-| Keyboard | Almost all shortcut key work |
-| Internal Speaker |  |
-| Internal Microphone |  |
-| Headphone jack | Audio line-in not tested yet |
-| USB Type-A |  |
-| USB Type-C | tested with USB type C hub |
-| Camera | |
-| Battery Indicator | |
-| Brightness | Keyboard shortcut is working |
-| Wifi | using airportitlwm |
-| Bluetooth | |
-| HDMI | |
+| Graphics Acceleration |TBD|
+| Trackpad |Works in Installer|
+| Keyboard |Works in Installer|
+| Internal Speaker |Works in Installer|
+| Internal Microphone |TBD|
+| Headphone jack |TBD|
+| USB Type-A |TBD|
+| USB Type-C |TBD|
+| Camera |TBD|
+| Battery Indicator |TBD|
+| Brightness |TBD|
+| Wifi |Works in Installer|
+| Bluetooth |TBD|
+| HDMI |TBD|
 
-What's Not Working/Partially working:
+Known Issues
 | Name | Comment |
 | ------ | ------ |
-| Sleep | Close lid to sleep not working. You must do Sleep manually then close the lid. If the lid's open the machine will wake up after several seconds. |
-| Fingerprint |  |
+| Sleep | Closing the Lid will not trigger sleep, and leaving the lid open during manual sleep causes issues. Additionally the timed Turn Off Display option may cause issues. |
+| Fingerprint |Doesn't work on Linux either, there is a effort for Linux drivers though.|
 
-Bug:
-- Sometimes if you enable "Turn display off after:", the display won't turn on and you need to force shutdown. Workaround, set "Turn display off after:" to never, and set screensaver instead.
-![image](https://user-images.githubusercontent.com/61957197/122768522-e1010080-d2cd-11eb-8d9e-00279d337d2d.png)
-
-
-Note:
-- You can use [GenSMBIOS] to generate SMBIOS.
-- Use [ProperTree] to edit config.plist.
-
+Instructions:
+Writing
 
 
 Usefull Link and Credits:
