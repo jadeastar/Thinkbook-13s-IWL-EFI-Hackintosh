@@ -1,10 +1,11 @@
 # Hackintosh EFI for First Generation Lenovo ThinkBooks
 
 macOS Version:
-macOS Big Sur
+
+- macOS Big Sur
 
 OpenCore Version: 
-0.7.2 (Stuck for the time being)
+- 0.7.2 (Stuck for the time being)
 
 Compatible ThinkBooks:
 - Thinkbook 13s IWL (Designed for)
