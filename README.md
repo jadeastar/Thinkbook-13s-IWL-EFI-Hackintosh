@@ -2,7 +2,7 @@
 Thanks for checking out my EFI! I hope it'll be helpful to you too. Before you get started, do your research! Is your configuration compatible with this EFI? Use the [official guide](https://dortania.github.io/OpenCore-Install-Guide/) to familiarize yourself with the process. If you have questions or comments please feel free to file an issue! Pull requests are always accepted too!
 
 ### macOS Version:
-- macOS Big Sur
+- macOS Big Sur (Working on upgrade to Monterey)
 
 ### OpenCore Version: 
 - 0.7.2 (Stuck for the time being)
@@ -37,7 +37,7 @@ Thanks for checking out my EFI! I hope it'll be helpful to you too. Before you g
 | Brightness |Changeable in software and with hardware keys|
 | Wifi |Works with perfornance relative to Linux IWLWiFi|
 | Bluetooth | Works with perfornance relative to Linux|
-| HDMI |Not working, patch needed|
+| HDMI |Working fully|
 
 ### Known Issues
 | Name | Comment |
@@ -69,20 +69,10 @@ Note: Olarila is generally hated in the community, don't use the forum or provid
 
 
 
-
-Usefull Link and Credits:
-- [OpenCore Install Guide]: this is starting point if you want to install Hackintosh using OpenCore.
-- [Acidanthera]: for most of the kexts
-- [Olarila]: If you want to download Mac Os Vanilla image without having Mac.
-- [OpenIntelWireless]: for intel wifi & bluetooth kexts
-- [VoodooI2C]: Trackpad kexts
-- [ECEnabler]: for working battery status
-
-
+## Useful Links
 [GenSMBIOS]: <https://github.com/corpnewt/GenSMBIOS>
 [ProperTree]: <https://github.com/corpnewt/ProperTree> 
 [OpenCore Install Guide]: <https://dortania.github.io/OpenCore-Install-Guide/>
-[Olarila]: <https://www.olarila.com>
 [OpenIntelWireless]: <https://github.com/OpenIntelWireless>
 [Acidanthera]: <https://github.com/acidanthera>
 [VoodooI2C]: <https://github.com/VoodooI2C/VoodooI2C>
