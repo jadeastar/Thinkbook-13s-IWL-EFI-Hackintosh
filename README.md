@@ -15,29 +15,29 @@ Thanks for checking out my EFI! I hope it'll be helpful to you too. Before you g
 | Hardware | Info |
 | ------ | ------ |
 | CPU | Intel(R) Core(TM) i5-8265U CPU @ 1.80GHz |
-| MEMORY | 8 GB DDR4 |
+| MEMORY | 8 GiB DDR4 |
 | GRAPHICS | Intel UHD Graphics 620 |
-| DISK | TBA |
+| DISK | Western Digital Blue SN570 250GiB |
 | SOUND | Intel Cannon Point-LP High Definition Audio Controller |
 | Network | Intel Cannon Point-LP CNVi |
 
 ### Hardware Status
 | Name | Comment |
 | ------ | ------ |
-| Graphics Acceleration |TBD|
-| Trackpad |Works in Installer|
-| Keyboard |Works in Installer|
-| Internal Speaker |Works in Installer|
+| Graphics Acceleration |Working fully|
+| Trackpad |Working, Force Touch must be turned off|
+| Keyboard |Working fully, Super is recognized as Cmd|
+| Internal Speaker |Working fully|
 | Internal Microphone |TBD|
 | Headphone jack |TBD|
-| USB Type-A |TBD|
+| USB Type-A |Working fully|
 | USB Type-C |TBD|
-| Camera |TBD|
-| Battery Indicator |TBD|
-| Brightness |TBD|
-| Wifi |Works in Installer|
-| Bluetooth |TBD|
-| HDMI |TBD|
+| Camera |Working fully|
+| Battery |Working, degraded life|
+| Brightness |Changeable in software and with hardware keys|
+| Wifi |Works with perfornance relative to Linux IWLWiFi|
+| Bluetooth | Works with perfornance relative to Linux|
+| HDMI |Not working, patch needed|
 
 ### Known Issues
 | Name | Comment |
