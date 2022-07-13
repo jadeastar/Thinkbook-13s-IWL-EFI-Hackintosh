@@ -35,8 +35,8 @@ Thanks for checking out my EFI! I hope it'll be helpful to you too. Before you g
 | Camera |Working fully|
 | Battery |Working, mildly degraded life|
 | Brightness |Changeable in software and with hardware keys|
-| Wi-Fi |Works with perfornance relative to Linux IWLWiFi|
-| Bluetooth | Works with perfornance relative to Linux|
+| Wi-Fi |Works with performance relative to Linux IWLWiFi|
+| Bluetooth | Works with performance relative to Linux|
 | HDMI |Working fully|
 
 ### Known Issues
