@@ -31,18 +31,18 @@ Thanks for checking out my EFI! I hope it'll be helpful to you too. Before you g
 | Internal Microphone |TBD|
 | Headphone jack |TBD|
 | USB Type-A |Working fully|
-| USB Type-C |TBD|
+| USB Type-C |Working for Audio, yet to test other uses|
 | Camera |Working fully|
-| Battery |Working, degraded life|
+| Battery |Working, mildly degraded life|
 | Brightness |Changeable in software and with hardware keys|
-| Wifi |Works with perfornance relative to Linux IWLWiFi|
+| Wi-Fi |Works with perfornance relative to Linux IWLWiFi|
 | Bluetooth | Works with perfornance relative to Linux|
 | HDMI |Working fully|
 
 ### Known Issues
 | Name | Comment |
 | ------ | ------ |
-| Sleep | Closing the Lid will not trigger sleep, and leaving the lid open during manual sleep causes issues. Additionally the timed Turn Off Display option may cause issues. |
+| Sleep | Closing the Lid will not trigger sleep, and leaving the lid open during manual sleep causes issues. Additionally the timed Turn Off Display option may cause issues - Working on Fixes |
 | Fingerprint |Doesn't work on Linux either, there is a effort for Linux drivers though.|
 
 
