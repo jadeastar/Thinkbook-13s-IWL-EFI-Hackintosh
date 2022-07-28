@@ -28,10 +28,10 @@ Thanks for checking out my EFI! I hope it'll be helpful to you too. Before you g
 | Trackpad |Working, Force Touch must be turned off|
 | Keyboard |Working fully, Super is recognized as Cmd|
 | Internal Speaker |Working fully|
-| Internal Microphone |TBD|
-| Headphone jack |TBD|
+| Internal Microphone |Working fully|
+| Headphone jack |Full quality audio|
 | USB Type-A |Working fully|
-| USB Type-C |Working for Audio, yet to test other uses|
+| USB Type-C |Working for Audio and Video|
 | Camera |Working fully|
 | Battery |Working, mildly degraded life|
 | Brightness |Changeable in software and with hardware keys|
