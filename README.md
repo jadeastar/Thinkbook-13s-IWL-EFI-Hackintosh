@@ -38,7 +38,7 @@ Thanks for checking out my EFI! I hope it'll be helpful to you too. Before you g
 | Battery |Working, mildly degraded life|
 | Brightness |Changeable in software and with hardware keys|
 | Wi-Fi |Works with performance relative to Linux IWLWiFi|
-| Bluetooth | Does now work in Monterey |
+| Bluetooth | Does not work in Monterey |
 | HDMI |Working fully|
 
 ### Known Issues
