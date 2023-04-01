@@ -1,11 +1,13 @@
+# I HAVE MADE MAJOR CHANGES TO THE CONFIGURATION, I WILL UPLOAD THE UPDATES SOON
+
 # Hackintosh EFI for First Generation Lenovo ThinkBooks
 Thanks for checking out my EFI! I hope it'll be helpful to you too. Before you get started, do your research! Is your configuration compatible with this EFI? Use the [official guide](https://dortania.github.io/OpenCore-Install-Guide/) to familiarize yourself with the process. If you have questions or comments please feel free to file an issue! Pull requests are always accepted too!
 
 ### macOS Version:
-- macOS Big Sur (Working on upgrade to Monterey)
+- macOS Monterey
 
 ### OpenCore Version: 
-- 0.7.2 (Stuck for the time being)
+- ?
 
 ### Compatible ThinkBooks:
 - Thinkbook 13s IWL (Designed for)
@@ -36,7 +38,7 @@ Thanks for checking out my EFI! I hope it'll be helpful to you too. Before you g
 | Battery |Working, mildly degraded life|
 | Brightness |Changeable in software and with hardware keys|
 | Wi-Fi |Works with performance relative to Linux IWLWiFi|
-| Bluetooth | Works with performance relative to Linux|
+| Bluetooth | Does now work in Monterey |
 | HDMI |Working fully|
 
 ### Known Issues
